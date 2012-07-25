@@ -1,0 +1,10 @@
+Iss01: Rejestracja
+Iss02: Logowanie za pomocą Facebooka (OAuth)
+Iss03: Logowanie
+Iss04: Dodawanie cytatów
+Iss05: System +, -, lajków
+Iss06: System fejków
+Iss07: System moderowania
+Iss08: System filtrowania
+Iss09: Prosty design
+Iss10: Zaawansowany design
